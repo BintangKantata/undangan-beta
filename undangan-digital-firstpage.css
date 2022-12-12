@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(252, 166, 101);
+}
+
+.fake {
+  margin-bottom: 120px;
+}
+
+.div1 {
+  box-shadow: 0 5px 8px rgba(0, 0, 0, 0.25);
+  background-color: rgb(255, 230, 202);
+  height: 710px;
+  width: 850px;
+  align-items: center;
+  padding-left: 31px;
+  padding-right: 31px;
+  padding-top: 5px;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+.yth {
+  font-size: 59px;
+  font-family: Allura;
+  text-align: center;
+  font-weight: bolder;
+  
+}
+.tamu {
+  font-size: 53px;
+  font-family: Allura;
+  text-align: center;
+  margin-top: -28px;
+}
+.puji {
+  font-family: Quicksand;
+  font-size: 27px;
+  text-align: center;
+  font-weight: lighter;
+  margin-top: -12px;
+  margin-bottom: 85px;
+}
+.buka {
+  border-radius: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 23px;
+  padding-right: 23px;
+  font-size: 25px;
+  color: rgb(255, 230, 202);
+  display: block;
+  margin: auto;
+  font-family: Quicksand;
+  font-weight: -3px;
+  border: none;
+  background-color: rgb(135, 64, 26);
+}
+
+.buka:hover {
+  cursor: pointer;
+}
+.buka:active {
+  opacity: 0.7;
+}
+
+.floral {
+  height: 300px;
+  padding-left: 0px;
+  display: block;
+  margin: auto;
+}
